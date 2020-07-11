@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 //Heroku connection
-// mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/afeese-fitnesstracker", { useNewUrlParser: true });
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/afeese-fitnesstracker", { useNewUrlParser: true });
 
 //'Routes here
 const db = require("./models");
