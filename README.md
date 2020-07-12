@@ -32,7 +32,7 @@ View, create and track daily workouts. Log multiple exercises in a workout on a 
 ## Installation: 
 ### Use the following instruction to install: 
 
-```App is live on https://af-fitness-tracker.herokuapp.com/```
+App is live on ```https://af-fitness-tracker.herokuapp.com/```
 
 
 
