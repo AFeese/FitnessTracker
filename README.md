@@ -1,7 +1,7 @@
 
-  ![License](https://img.shields.io/badge/License-BSD%203-blue.svg?style=plastic)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic)
 
-# Fitness Workout Tracker
+# Budget Tracker
 
 ## Version:
 1.0.0
@@ -9,8 +9,8 @@
 
 
 
-## Description of Fitness Workout Tracker:
-View, create and track daily workouts. Log multiple exercises in a workout on a given day. Track the name, type, weight, sets, reps, and duration of exercises, and track distance travelled. 
+## Description of Budget Tracker:
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they will populate the total when brought back online.
 
 
 
@@ -30,21 +30,19 @@ View, create and track daily workouts. Log multiple exercises in a workout on a 
 
 
 ## Installation: 
-### Use the following instruction to install: 
-
-App is live on ```https://af-fitness-tracker.herokuapp.com/```
+App is live on ```https://af-budget-tracker.herokuapp.com```
 
 
 
 
 ## Usage: 
-For your personal use of tracking your workout activity!
+Track your budget expenses and use it offline!
 
 
 
 
 ## License: 
-![License](https://img.shields.io/badge/License-BSD%203-blue.svg?style=plastic)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic)
 
 
 
@@ -57,7 +55,7 @@ AFeese
 
 
 ## Tests: 
-```no testing implemented at this time```
+No testing implemented at this time.
 
 
 
