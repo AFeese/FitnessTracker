@@ -1,7 +1,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic)
 
-# Budget Tracker
+# Fitness Tracker
 
 ## Version:
 1.0.0
@@ -9,8 +9,8 @@
 
 
 
-## Description of Budget Tracker:
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they will populate the total when brought back online.
+## Description of Fitness Tracker:
+Allows the user to track a workout. Various attributes of the workout can be stored. The workouts are saved in a Mongo database.
 
 
 
@@ -30,13 +30,13 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 
 ## Installation: 
-App is live on ```https://af-budget-tracker.herokuapp.com```
+App is live on https://af-fitness-tracker.herokuapp.com/
 
 
 
 
 ## Usage: 
-Track your budget expenses and use it offline!
+Track your fitness progress!
 
 
 
